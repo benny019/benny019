@@ -5,9 +5,9 @@
 www.linkedin.com/in/benjamin-tayelolu
 https://www.kaggle.com/benjamintayelolu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m continually committed to learning and upskilling
+- 🔭 I’m a self-driven data analyst with a strong background in weather and climate science. 
+- 🌱 I find interest in driving actionable insights for a sustainable future and business growth.
 - 👯 I’m looking to collaborate with other data enthusiasts to uncover solutions and infer data-driven decisions
-- 💬 Ask me about the climate or sustainability
+- 💬 Ask me about the climate or susta
 - 📫 How to reach me: 
-- ⚡ Fun fact: ...
+- ⚡ Proficient in tools like EXcel, SQL, Tableau and R Programming Language
