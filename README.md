@@ -1,13 +1,12 @@
-## Hi there, my name is Benjamin👋
-
-# I'm a data analyst, student meteotologist and environmentalist
-
-www.linkedin.com/in/benjamin-tayelolu
-https://www.kaggle.com/benjamintayelolu
+## Hi there, my name is Benjamin👋, 
+# I am a data analyst, student meteotologist and environmentalist
 
 - 🔭 I’m a self-driven data analyst with a strong background in weather and climate science. 
 - 🌱 I find interest in driving actionable insights for a sustainable future and business growth.
-- 👯 I’m looking to collaborate with other data enthusiasts to uncover solutions and infer data-driven decisions
-- 💬 Ask me about the climate or susta
+- 👯 I’m looking to collaborate with other data enthusiasts to uncover solutions and infer data-driven decisions.
+- ⚡ Proficient in Excel, SQL, Tableau and R Programming Language whilst also getting my hands on Python.
+- 💬 
 - 📫 How to reach me: 
-- ⚡ Proficient in tools like EXcel, SQL, Tableau and R Programming Language
+  [LinkedIn Profile](www.linkedin.com/in/benjamin-tayelolu)
+  [Kaggle Profile](https://www.kaggle.com/benjamintayelolu)
+  
