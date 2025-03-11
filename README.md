@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other data enthusiasts to uncover solutions and infer data-driven decisions.
 - ⚡ Proficient in Excel, SQL, Tableau and R Programming Language whilst also getting my hands on Python.
 - 💬 
-- 📫 How to reach me: 
-  [LinkedIn Profile](www.linkedin.com/in/benjamin-tayelolu)
-  [Kaggle Profile](https://www.kaggle.com/benjamintayelolu)
+- 📫 Reach me on 
+  [LinkedIn](www.linkedin.com/in/benjamin-tayelolu)
+  [Kaggle](https://www.kaggle.com/benjamintayelolu)
   
