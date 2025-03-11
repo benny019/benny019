@@ -7,6 +7,6 @@
 - ⚡ Proficient in Excel, SQL, Tableau and R Programming Language whilst also getting my hands on Python.
 - 💬 
 - 📫 Reach me on 
-  [LinkedIn](www.linkedin.com/in/benjamin-tayelolu)
+  [LinkedIn](www.linkedin.com/in/benjamin-tayelolu),
   [Kaggle](https://www.kaggle.com/benjamintayelolu)
   
