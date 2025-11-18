@@ -1,5 +1,5 @@
 ## Hi there, my name is Benjamin👋, 
-# I am a data analyst, student meteotologist and environmentalist
+# I am a climate scientist (B.Tech, Meteoteorology and Climate Science) and data analyst. 
 
 - 🔭 I’m a self-driven data analyst with a strong background in weather and climate science. 
 - 🌱 I find interest in driving actionable insights for a sustainable future and business growth.
